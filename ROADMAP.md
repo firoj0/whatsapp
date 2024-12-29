@@ -1,4 +1,4 @@
-# Features & roadmap
+# Git Features & roadmap
 * Matrix → WhatsApp
   * [x] Message content
     * [x] Plain text
