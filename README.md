@@ -1,4 +1,4 @@
-# mautrix-whatsapp
+git# mautrix-whatsapp
 A Matrix-WhatsApp puppeting bridge based on [whatsmeow](https://github.com/tulir/whatsmeow).
 
 ## Documentation
